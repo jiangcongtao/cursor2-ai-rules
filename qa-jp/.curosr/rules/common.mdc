@@ -1,0 +1,5 @@
+---
+globs: qa-jp/*.*
+alwaysApply: false
+---
+Answer to all user queries in Japanese.
